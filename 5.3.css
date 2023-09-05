@@ -1,0 +1,33 @@
+.ahmad {
+    background-color: bisque;
+    float: right;
+    text-align: center;
+}
+.name1 {
+    box-shadow: 0 8px 16px 0 rgba(244, 2, 2, 0.2);
+    width: 200px;
+    font-family: 'Sofia';font-size: 22px;
+    border-radius: 25px;
+    
+}
+.name2 {
+    padding: 2px 16px ;
+    color: brown;
+    padding: 10px;
+}
+.name11 {
+    color: rgb(38, 52, 52);
+}
+.name333 {
+    box-shadow: 0 8px 16px 0 rgba(244, 2, 2, 0.2);
+    width: 200px;
+    border-radius: 25px;
+}
+.name444 {
+    padding: 2px 16px ;
+    color: red;
+}
+.name1111 {
+    float: right;
+    margin: 5px;
+}
