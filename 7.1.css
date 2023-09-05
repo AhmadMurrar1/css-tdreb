@@ -1,0 +1,90 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+.button1 {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(41, 41, 93);
+    color: white;
+    margin-right: 100px;
+}
+.button1:hover {
+    background-color: rgb(106, 125, 149);
+}
+.button11 {
+    width: 100x;
+    height: 25px;
+    background-color: yellow;
+    color: white;
+    
+}
+.button11:hover {
+    background-color: rgb(122, 122, 53);
+}
+.button2 {
+    width: 100px;
+    height: 50px;
+    background-color:green;
+    color: white;
+    margin-right: 100px;
+    border-radius: 25px;
+}
+.button2:hover {
+    background-color: rgb(48, 165, 83);
+}
+.button22 {
+    width: 100px;
+    height: 25x;
+    background-color:red;
+    color: white;
+    border-radius: 25px;
+}
+.button22:hover {
+    background-color: rgb(132, 45, 45);
+}
+.button3 {
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: white;
+    margin-right: 100px;
+    background-color: aqua;
+    border: 1px solid red;
+}
+.button3:hover {
+    background-color:rgb(126, 35, 35);
+}
+.button33 {
+    width: 100px;
+    height: 25px;
+    border: 1px solid pink;
+    color: white;
+    background-color: aqua;
+}
+.button33:hover {
+    background-color: rgb(216, 43, 162);
+}
+.button4 {
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    color: white;
+    margin-right: 100px;
+    border: 1px solid green;
+    border-radius: 25px;
+}
+.button4:hover {
+    background-color:rgb(55, 213, 55);
+}
+.button44 {
+    width: 100px;
+    height: 25px;
+    border: 1px solid blue;
+    color: white;
+    background-color: aqua;
+    border-radius: 25px;
+}
+.button44:hover {
+    background-color: rgb(73, 68, 221);
+}
