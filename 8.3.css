@@ -1,0 +1,58 @@
+.div1 {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    position: relative;
+    z-index: 1;
+}
+#wa7d {
+float: left;
+margin: 0px;
+}
+.div2 {
+    border: 1px solid black;
+    width: 100px;
+    height: 150px;
+    margin: 0px;
+    top: -30px;
+    left: 40px;
+    z-index: 2;
+    position: relative;
+    background-color: white;
+}
+.tnen {
+    float: left;
+    margin: 0px;
+}
+.div3 {
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    margin: 0px;
+    position: relative;
+    z-index: 3;
+    bottom: 85px;
+    background-color: white;
+}
+.tlat {
+float: left;
+margin: 0px;
+}
+.div4 {
+    border: 1px solid black;
+    width: 100px;
+    height: 500px;
+    margin: 0px;
+    position: relative;
+    z-index: 4;
+    background-color: white;
+    left: 180px;
+    bottom: 350px;
+
+}
+.arb3a {
+    float: left;
+    margin: 0px;
+}
+
